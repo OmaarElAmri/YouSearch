@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YouSearch</string>
+    <string name="load_more">Load More</string>
+    <string name="button">Button</string>
+    <string name="playbutton">Button</string>
+    <string name="play">play</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+</resources>
