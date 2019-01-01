@@ -1,2 +1,2 @@
 # YouSearch
-using youtube api data and youtube api player
+exploaring youtube api data and youtube api player
